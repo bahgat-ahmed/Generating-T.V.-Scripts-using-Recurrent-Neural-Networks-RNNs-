@@ -5,7 +5,7 @@ This is one of the projects I've built in Udacity **Deep Learning Nanodegree**.
 ![](tv-script.png)
 
 ## Introduction
-In this project, I've generated TV scripts using Long-Short Term Memory Networks (LSTM) which is a type of Recurrent Neural Networks (RNNs). I've used a Seinfeld dataset of scripts from 9 seasons. The Neural Network I've built will generate a new, "fake" TV script.
+In this project, I've generated TV scripts using Long-Short Term Memory Networks (LSTMs) which is a type of Recurrent Neural Networks (RNNs). I've used a Seinfeld dataset of scripts from 9 seasons. The Neural Network I've built have generated a new, "fake" TV script.
 
 ## Steps taken in this project
 
