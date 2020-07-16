@@ -5,7 +5,7 @@ This is one of the projects I've built in Udacity **Deep Learning Nanodegree**.
 ![](tv-script.png)
 
 ## Introduction
-In this project, I've generated TV scripts using RNNs. I've used a [Seinfeld dataset](https://www.kaggle.com/thec03u5/seinfeld-chronicles#scripts.csv) of scripts from 9 seasons. The Neural Network I've built will generate a new, "fake" TV script.
+In this project, I've generated TV scripts using RNNs. I've used a Seinfeld dataset of scripts from 9 seasons. The Neural Network I've built will generate a new, "fake" TV script.
 
 ## Steps taken in this project
 
